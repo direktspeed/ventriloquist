@@ -1,6 +1,16 @@
+# Will get Part of the Vagrunt Project
+
+# TODO
+- Taking maybe some Parts
+- Create a Fork To Inform users that this is Outdated Stuff Ventriloquist isnt a good Method Vagrunt will do much better
+- Maybe Create a Vagrunt Frok called Vadocker Vagrant + Docker Kickstart but Vagrunt is that too and more.
+
+
+
+
 # Ventriloquist
 
-> **ven·tril·o·quist**: _(noun)_ a person who can speak or utter sounds so that
+> **ven·tril·o·quist**: _(noun)_ a person who can speak or utter sounds so V
   they seem to come from somewhere else, esp. an entertainer who makes their voice
   appear to come from a dummy of a person or animal.
 
